@@ -1,0 +1,13 @@
+.navbar-section {
+  position: sticky;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  background-color: black;
+}
+
+.navbar-section h3 {
+	color: white;
+	font-size: 40px;
+	padding-top: 20px;
+}

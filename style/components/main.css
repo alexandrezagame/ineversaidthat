@@ -1,0 +1,235 @@
+.body {
+	/*height: 100vh !important;*/
+	background-color: black;
+}
+
+.main {
+	width: auto;
+	min-height: 100vh;
+	background-color: black;
+	display: flex;
+	flex-direction: column;
+    /*justify-content: center;*/
+    align-items: center;
+	padding-bottom: 50px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 35%;
+  height: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+}
+
+#quoteImage {
+	height: 450px !important;
+	width: auto !important;
+}
+
+#quoteImage img {
+	width: auto;
+	height: 250px;
+}
+
+#output1 {
+ padding-top: 25px
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+  padding: 2px 16px;
+}
+
+@media screen and (max-width: 1024px) {
+  .card {
+    width: 100vw !important;
+    height: auto !important;
+	padding: 5px;
+  }
+}
+
+#text {
+	padding-top: 10px; 
+	font-family: 'Playfair Display', serif;
+	font-weight: 400;
+	font-size: 24px;
+	min-height: 80px;
+}
+
+#author {
+	padding-top: 5px; 
+	padding-bottom: 5px; 
+}
+
+#quoteImage {
+	background-image: url("../../images/logo.png");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.obama {
+	/*background-color: yellow;*/
+	background-image: url("../../images/obama3.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.trump {
+	/*background-color: yellow;*/
+	background-image: url("../../images/trump2.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.putin {
+	/*background-color: yellow;*/
+	background-image: url("../../images/putin.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.winston {
+	/*background-color: yellow;*/
+	background-image: url("../../images/winston.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.merkel {
+	/*background-color: yellow;*/
+	background-image: url("../../images/merkel.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.mark {
+	/*background-color: yellow;*/
+	background-image: url("../../images/mark.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.queen {
+	/*background-color: yellow;*/
+	background-image: url("../../images/queen.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.batman {
+	/*background-color: yellow;*/
+	background-image: url("../../images/batman.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.einstein {
+	/*background-color: yellow;*/
+	background-image: url("../../images/einstein.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.jobs {
+	/*background-color: yellow;*/
+	background-image: url("../../images/jobs.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.paris {
+	/*background-color: yellow;*/
+	background-image: url("../../images/paris.png");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.potter {
+	/*background-color: yellow;*/
+	background-image: url("../../images/potter.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.rock {
+	/*background-color: yellow;*/
+	background-image: url("../../images/rock.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.red {
+	/*background-color: yellow;*/
+	background-image: url("../../images/red.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.kim {
+	/*background-color: yellow;*/
+	background-image: url("../../images/kim.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.prince {
+	/*background-color: yellow;*/
+	background-image: url("../../images/prince.prince");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.kard {
+	/*background-color: yellow;*/
+	background-image: url("../../images/kard.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.ron {
+	/*background-color: yellow;*/
+	background-image: url("../../images/ron.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.jordan {
+	/*background-color: yellow;*/
+	background-image: url("../../images/jordan.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.elvis {
+	/*background-color: yellow;*/
+	background-image: url("../../images/elvis.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.beyonce {
+	/*background-color: yellow;*/
+	background-image: url("../../images/beyonce.jpeg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.kennedy {
+	/*background-color: yellow;*/
+	background-image: url("../../images/kennedy.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.home {
+	/*background-color: yellow;*/
+	background-image: url("../../images/home.jpg");
+	background-size: cover;
+	background-position: center;
+}
