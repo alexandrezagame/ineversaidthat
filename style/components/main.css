@@ -12,8 +12,8 @@
     /*justify-content: center;*/
     align-items: center;
 	padding-bottom: 50px;
-	padding-top: 5%;
-	padding-bottom: 5%;
+	padding-top: 2%;
+	padding-bottom: 2%;
 }
 
 .card {
@@ -52,7 +52,8 @@
   .card {
     width: 100vw !important;
     height: auto !important;
-	padding: 5px;
+	padding: 5px !important;
+	margin: auto;
   }
 }
 
@@ -277,6 +278,111 @@
 #quoteImage.pope {
 	/*background-color: yellow;*/
 	background-image: url("../../images/pope.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.hillary {
+	/*background-color: yellow;*/
+	background-image: url("../../images/hillary.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.boris {
+	/*background-color: yellow;*/
+	background-image: url("../../images/boris.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.leo {
+	/*background-color: yellow;*/
+	background-image: url("../../images/leo.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.ryan {
+	/*background-color: yellow;*/
+	background-image: url("../../images/ryan.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.chris {
+	/*background-color: yellow;*/
+	background-image: url("../../images/chris.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.tiger {
+	/*background-color: yellow;*/
+	background-image: url("../../images/tiger.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.pirate {
+	/*background-color: yellow;*/
+	background-image: url("../../images/pirate.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.brad {
+	/*background-color: yellow;*/
+	background-image: url("../../images/brad.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.emilia {
+	/*background-color: yellow;*/
+	background-image: url("../../images/emilia.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.reese {
+	/*background-color: yellow;*/
+	background-image: url("../../images/reese.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.baby {
+	/*background-color: yellow;*/
+	background-image: url("../../images/baby.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.chew {
+	/*background-color: yellow;*/
+	background-image: url("../../images/chew.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.xi {
+	/*background-color: yellow;*/
+	background-image: url("../../images/xi.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.gollum {
+	/*background-color: yellow;*/
+	background-image: url("../../images/gollum.jpg");
+	background-size: cover;
+	background-position: center;
+}
+
+#quoteImage.stephan {
+	/*background-color: yellow;*/
+	background-image: url("../../images/stephan.jpg");
 	background-size: cover;
 	background-position: center;
 }
